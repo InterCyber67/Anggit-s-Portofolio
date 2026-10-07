@@ -1,0 +1,5 @@
+{
+  "name": "stardust-portfolio",
+  "framework": "nextjs",
+  "buildCommand": "npm run build"
+}
